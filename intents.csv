@@ -1,0 +1,6 @@
+"tag,patterns,responses"
+"greeting,""Hi,Hello,How are you,Good morning"",""Hello!, Hi there!, How can I help you?"""
+"goodbye,""Bye,See you later,Goodbye"",""Goodbye!, See you!, Take care!"""
+"thanks,""Thanks,Thank you,Much appreciated"",""You're welcome!, No problem!, Happy to help!"""
+"help,""Can you help me?,I need help,Assistance"",""Sure! How can I assist you?,What do you need help with?"""
+"weather,""What's the weather like?,Tell me the weather"",""I can't give you the weather right now, but you can check it on a weather website!"""
